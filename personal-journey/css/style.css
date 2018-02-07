@@ -1,9 +1,11 @@
 p {
 	font-family: 'Work Sans', sans-serif;
-	color: red;
+	color: black;
+	text-align: center;
 }
 a {
-
+    color: black;
+    text-align: center;
 }
 body {
     background-color: lightblue;
