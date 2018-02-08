@@ -1,8 +1,13 @@
 body {
 	background-color: black;
 }
+
 p {
-	font-family: courier;
+	font-family: Courier New;
 	color: rgb(246,167,33);
-	font-size: 200px;
+	font-size: 70px;
+}
+
+a {
+	color: white;
 }
