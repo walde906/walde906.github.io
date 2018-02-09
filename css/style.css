@@ -32,3 +32,14 @@ a {
 a:hover {
 	color: rgb(119,165,184);
 }
+
+p {
+	color: white;
+	font-family: 'Cormorant Garamond', serif;
+	text-align: center;
+	font-size: 100px;
+}
+
+#header {
+	font-size: 100px;
+}
