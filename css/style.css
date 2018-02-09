@@ -28,3 +28,7 @@ a {
 	font-family: 'Nanum Myeongjo', serif;
 	text-align: center;
 }
+
+a:hover {
+	color: red;
+}
