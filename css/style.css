@@ -6,7 +6,7 @@ body {
 
 a {
 	color: white;
-	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Playfair Display', serif;
 	text-align: center;
 }
 
@@ -14,17 +14,14 @@ a:hover {
 	color: rgb(119,165,184);
 }
 
-p {
+h1 {
 	color: white;
-	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Playfair Display', serif;
 	text-align: center;
-	
 }
 
-#header {
-	font-size: 100px;
-}
-
-#header2 {
-	font-size: 25px;
+h3 {
+	color: white;
+	font-family: 'Playfair Display', serif;
+	text-align: center;
 }
