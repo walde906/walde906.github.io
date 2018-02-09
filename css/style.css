@@ -10,6 +10,13 @@ h1 {
 	text-align: center;
 	font-size: 100px;
 }
+
+h2 {
+	color: white;
+	font-family: 'Nanum Myeongjo', serif;
+	text-align: center;
+}
+
 h3 {
 	color: white;
 	font-family: 'Nanum Myeongjo', serif;
