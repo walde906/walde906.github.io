@@ -3,7 +3,7 @@ body {
 }
 
 p {
-	font-family: Courier New;
+	font-family: American Typewriter;
 	color: rgb(246,167,33);
 	font-size: 55px;
 }
@@ -65,8 +65,8 @@ a {
 	height: 1px;
 	background: white;
 	position: absolute;
-    top: 500px;
-    left: 700px;
+    top: 550px;
+    left: 770px;
 }
 #line8 {
     width: 75px;
