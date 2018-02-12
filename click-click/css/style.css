@@ -4,6 +4,7 @@ body {
 
 p {
 	font-family: American Typewriter;
+	font-weight: light;
 	color: rgb(246,167,33);
 	font-size: 55px;
 }
