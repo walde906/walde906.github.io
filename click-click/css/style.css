@@ -113,7 +113,7 @@ a {
 	height: 1px;
 	background: white;
 	position: absolute;
-    top: 400px;
+    top: 450px;
     left: 400px;
 }
 #lineD {
@@ -133,17 +133,10 @@ a {
     left: 650px;
 }
 #lineF {
-
-}
-#lineG {
-
-}
-#lineH {
-
-}
-#lineI {
-
-}
-#lineJ {
-
+    width: 350px;
+	height: 1px;
+	background: white;
+	position: absolute;
+    top: 110px;
+    left: 650px;
 }
