@@ -81,7 +81,7 @@ a {
 	height: 1px;
 	background: white;
 	position: absolute;
-    top: 700px;
+    top: 600px;
     left: 70px;
 }
 #line10 {
@@ -109,28 +109,28 @@ a {
     left: 90px;
 }
 #lineC {
-    width: 650px;
+    width: 600px;
 	height: 1px;
 	background: white;
 	position: absolute;
     top: 400px;
-    left: 800px;
+    left: 400px;
 }
 #lineD {
-    width: 450px;
+    width: 150px;
 	height: 1px;
 	background: white;
 	position: absolute;
-    top: 800px;
-    left: 900px;
+    top: 550px;
+    left: 700px;
 }
 #lineE {
-    width: 550px;
+    width: 350px;
 	height: 1px;
 	background: white;
 	position: absolute;
-    top: 700px;
-    left: 750px;
+    top: 610px;
+    left: 650px;
 }
 #lineF {
 
