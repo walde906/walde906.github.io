@@ -5,12 +5,14 @@ body {
 }
 h1 {
 	color: black;
-	font-family: garamond;
+	font-family: helvetica;
+	font-weight: lighter;
 	text-align: center;
 }
 
 pre {
 	color: black;
-	font-family: garamond;
+	font-family: helvetica;
+	font-weight: lighter;
 	text-align: center;
 }
