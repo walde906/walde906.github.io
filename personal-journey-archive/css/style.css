@@ -16,3 +16,9 @@ pre {
 	font-weight: lighter;
 	text-align: center;
 }
+
+a {
+	color: black;
+	font-family: helvetica;
+	font-weight: lighter;
+}
