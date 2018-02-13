@@ -22,3 +22,78 @@ a {
 	font-family: helvetica;
 	font-weight: lighter;
 }
+
+a:hover {
+	color: rgb(119,165,184);
+}
+
+#vietnam{
+    position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#longjourney {
+    position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#ocean {
+    position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#morning {
+	position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#yogurt {
+	position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#china {
+	position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#error404 {
+	position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#bluegreen {
+	position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#paris {
+	position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#ato {
+	position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#showering {
+	position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#lifamily {
+	position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#hotpot {
+	position: absolute;
+    top: 110px;
+    left: 650px;
+}
+#roadtrip {
+	position: absolute;
+    top: 110px;
+    left: 650px;
+}
