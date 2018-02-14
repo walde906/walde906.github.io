@@ -9,6 +9,12 @@ h1 {
 	font-weight: lighter;
 	text-align: center;
 }
+h3 {
+	color: gray;
+	font-family: helvetica;
+	font-weight: lighter;
+	text-align: center;
+}
 
 pre {
 	color: black;
