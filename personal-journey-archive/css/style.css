@@ -86,7 +86,7 @@ a:hover {
 #ato {
 	position: absolute;
     top: 110px;
-    left: 650px;
+    left: 750px;
 }
 #showering {
 	position: absolute;
@@ -100,11 +100,11 @@ a:hover {
 }
 #hotpot {
 	position: absolute;
-    top: 110px;
-    left: 650px;
+    top: 200px;
+    left: 750px;
 }
 #roadtrip {
 	position: absolute;
-    top: 110px;
+    top: 210px;
     left: 50px;
 }
