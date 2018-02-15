@@ -1,0 +1,14 @@
+body {
+	background-color: white;
+}
+
+p {
+	font-family: American Typewriter;
+	font-weight: lighter;
+	color: black;
+	font-size: 55px;
+}
+
+a {
+	color: rgb(190,30,45);
+}
