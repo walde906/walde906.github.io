@@ -12,3 +12,9 @@ p {
 a {
 	color: rgb(190,30,45);
 }
+
+#links {
+	color: rgb(246,167,33);
+	text-decoration:  none;
+	text-align: center;
+}
