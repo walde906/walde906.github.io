@@ -21,6 +21,7 @@ a {
 	position: absolute;
     top: 500px;
     left: 80px;
+    opacity: 60%;
 }
 #line2 {
     width: 80%;
@@ -29,6 +30,7 @@ a {
 	position: absolute;
     top: 300px;
     left: 100px;
+    opacity: 60%;
 }
 #line3 {
     width: 40%;
@@ -37,6 +39,7 @@ a {
 	position: absolute;
     top: 600px;
     left: 200px;
+    opacity: 60%;
 }
 #line4 {
     width: 20%;
@@ -45,6 +48,7 @@ a {
 	position: absolute;
     top: 60px;
     left: 70px;
+    opacity: 60%;
 }
 #line5 {
     width: 20%;
@@ -53,6 +57,7 @@ a {
 	position: absolute;
     top: 90px;
     left: 300px;
+    opacity: 60%;
 }
 #line6 {
     width: 10%;
@@ -61,6 +66,7 @@ a {
 	position: absolute;
     top: 80px;
     left: 250px;
+    opacity: 60%;
 }
 #line7 {
     width: 7%;
@@ -69,6 +75,7 @@ a {
 	position: absolute;
     top: 550px;
     left: 770px;
+    opacity: 60%;
 }
 #line8 {
     width: 7.5%;
@@ -77,6 +84,7 @@ a {
 	position: absolute;
     top: 400px;
     left:800px;
+    opacity: 60%;
 }
 #line9 {
     width: 8%;
@@ -85,6 +93,7 @@ a {
 	position: absolute;
     top: 600px;
     left: 70px;
+    opacity: 60%;
 }
 #line10 {
     width: 20%;
@@ -93,6 +102,7 @@ a {
 	position: absolute;
     top: 75px;
     left: 70px;
+    opacity: 60%;
 }
 #lineA {
     width: 30%;
@@ -101,6 +111,7 @@ a {
 	position: absolute;
     top: 370px;
     left: 80px;
+    opacity: 60%;
 }
 #lineB {
     width: 25%;
@@ -109,6 +120,7 @@ a {
 	position: absolute;
     top: 400px;
     left: 90px;
+    opacity: 60%;
 }
 #lineC {
     width: 60%;
@@ -117,6 +129,7 @@ a {
 	position: absolute;
     top: 450px;
     left: 400px;
+    opacity: 60%;
 }
 #lineD {
     width: 15%;
@@ -125,6 +138,7 @@ a {
 	position: absolute;
     top: 550px;
     left: 700px;
+    opacity: 60%;
 }
 #lineE {
     width: 35%;
@@ -133,6 +147,7 @@ a {
 	position: absolute;
     top: 610px;
     left: 650px;
+    opacity: 60%;
 }
 #lineF {
     width: 35%;
@@ -141,6 +156,7 @@ a {
 	position: absolute;
     top: 110px;
     left: 650px;
+    opacity: 60%;
 }
 
 #links {
