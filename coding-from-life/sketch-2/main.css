@@ -160,7 +160,17 @@ body {
   transform: rotate(-5deg);
 }
 
-
+.flower2 {
+  position: relative;
+  top: -717px;
+  left: 191px;
+  width: 32px;
+  height: 52px;
+  background: black;
+  -moz-border-radius: 100px / 50px;
+  -webkit-border-radius: 100px / 50px;
+  border-radius: 50%;
+}
 
 
 
