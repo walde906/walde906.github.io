@@ -1,9 +1,8 @@
 body {
-	background: linear-gradient(red, white);
+	background: linear-gradient(rgb(204, 215, 234), white);
 }
 
 p {
 	font-family: helvetica;
 }
 
-rgb(204, 215, 234)
