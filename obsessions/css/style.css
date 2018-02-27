@@ -1,3 +1,7 @@
 body {
 	background-color: linear-gradient(rgb(204, 215, 234), white, rgb(204, 215, 234), white);
 }
+
+p {
+	font-family: helvetica;
+}
