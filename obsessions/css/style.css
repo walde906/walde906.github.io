@@ -1,5 +1,6 @@
 html {
-  background: linear-gradient(rgb(204, 215, 234), white);
+  background: linear-gradient(rgb(230, 236, 247), white, rgb(230, 236, 247), white);
+  min-height: 100%;
 }
 
 p {
