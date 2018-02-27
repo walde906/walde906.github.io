@@ -162,13 +162,13 @@ body {
 
 .flower2 {
   position: relative;
-  top: -717px;
-  left: 191px;
-  width: 32px;
-  height: 52px;
+  top: -717%;
+  left: 191%;
+  width: 32%;
+  height: 52%;
   background: black;
-  -moz-border-radius: 100px / 50px;
-  -webkit-border-radius: 100px / 50px;
+  -moz-border-radius: 100% / 50%;
+  -webkit-border-radius: 100% / 50%;
   border-radius: 50%;
 }
 
