@@ -1,5 +1,5 @@
 body {
-	background-color: linear-gradient(rgb(204, 215, 234), white, rgb(204, 215, 234), white);
+	background-color: linear-gradient(red, white, rgb(204, 215, 234), white);
 }
 
 p {
