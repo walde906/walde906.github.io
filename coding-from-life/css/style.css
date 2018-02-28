@@ -1,16 +1,16 @@
 body {
-	background color: rgb(45, 73, 49);
+	background-color: rgb(45, 73, 49);
 }
 
 p {
-	font font-family: courier;
+	font-family: courier;
 	color: white;
 	font-size: 100%;
 	text-align: center;
 }
 
 a {
-	font font-family: courier;
+	font-family: courier;
 	color: rgb(159, 204, 165);
 	text-align: center;
 }
