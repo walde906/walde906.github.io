@@ -1,0 +1,27 @@
+
+p {
+	font-family: 'Krona One', sans-serif;
+	line-height: 150px;
+  padding-left: 2%;
+}
+
+body {
+  font-size: 100px;
+}
+
+@media (min-width: 700px) {
+  body {
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 992px) {
+  body {
+    font-size: 100px;
+  }
+}
+
+.credit {
+	font-size: 25px;
+  padding-left: 2%;
+}

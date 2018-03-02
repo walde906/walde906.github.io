@@ -1,0 +1,8 @@
+.gray-box {
+    display: inline-block;
+    margin: 10px;
+    font-family: sans-serif;
+    background-color: rgb(207,216,221);
+    text-align: center;
+    padding: 25px;
+}
