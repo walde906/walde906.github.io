@@ -1,0 +1,14 @@
+html {
+  background: linear-gradient(rgb(230, 236, 247), white, rgb(230, 236, 247), white);
+  min-height: 100%;
+}
+
+p {
+	font-family: helvetica;
+}
+
+img {
+	align-content: center;
+	margin-left: auto;
+    margin-right: auto;
+}
