@@ -13,3 +13,15 @@ p {
 a {
 	text-decoration: none;
 }
+
+@media (max-width: 900px) {
+  img.responsive {size: 200%;}
+}
+
+img.responsive{height: auto;}
+
+@media (max-width: 600px) {
+  body {
+    font-weight: bold;
+  }
+}
