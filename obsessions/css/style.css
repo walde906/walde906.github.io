@@ -8,6 +8,9 @@ p {
 	text-align: center;
 	font-weight: lighter;
 	font-size: 300%;
+  border: 3px solid black;
+  padding: 25px;
+  letter-spacing: 6px;
 }
 
 a {
@@ -28,6 +31,11 @@ img {height: auto;}
 }
 
 img {
-  width: 30.6%;
+  width: 19%;
   height: auto;
+}
+pre {
+  font-family: helvetica;
+  text-align: center;
+  font-weight: lighter;
 }
