@@ -1,21 +1,27 @@
 html {
-  background: linear-gradient(rgb(230, 236, 247), white, rgb(230, 236, 247), white);
+  background: white;
   min-height: 100%;
 }
 
 p {
 	font-family: helvetica;
 	text-align: center;
-	font-weight: lighter;
+	font-weight: bolder;
 	font-size: 300%;
   border: 3px solid black;
   padding: 25px;
   letter-spacing: 6px;
+  font-style: italic;
 }
 
 a {
 	text-decoration: none;
   font-family: helvetica;
+  color: black;
+  font-weight: bolder;
+  text-align: center;
+  font-style: italic;
+  font-size: 130%
 }
 
 @media (max-width: 667px) {
@@ -33,9 +39,19 @@ img {height: auto;}
 img {
   width: 19%;
   height: auto;
+
 }
-pre {
+.catagories {
+  flex-direction: row;
+  justify-content: center;
   font-family: helvetica;
   text-align: center;
-  font-weight: lighter;
+  font-weight: bolder;
+  font-size: 150%
+  font-style: italic;
+  color: black;
+  position: fixed;
+}
+.catagories:hover {
+  color: rgb(99, 131, 183);
 }

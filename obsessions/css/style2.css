@@ -6,7 +6,8 @@ html {
 p {
 	font-family: helvetica;
 	text-align: center;
-	font-weight: lighter;
+	font-weight: bolder;
+	font-style: italic;
 	font-size: 100%;
 }
 
@@ -19,7 +20,8 @@ img {
 
 a {
   font-family: helvetica;
-  font-weight: lighter;
+  font-weight: bolder;
+  font-style: italic;
   color: black;
 }
 

@@ -6,7 +6,8 @@ html {
 p {
 	font-family: helvetica;
 	text-align: center;
-	font-weight: lighter;
+	font-weight: bolder;
+  font-style: italic;
 	font-size: 300%;
 }
 
@@ -14,7 +15,8 @@ a {
 	text-decoration: none;
   font-family: helvetica;
   color: black;
-  font-weight: lighter;
+  font-weight: bolder;
+  font-style: italic;
 }
 
 @media (max-width: 667px) {
