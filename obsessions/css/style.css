@@ -79,10 +79,13 @@ a:hover {
 /* Media queries */
 @media (max-width: 667px) {
   body {
-    font-size: 70%;
+    font-size: 65%;
   }
 
   img {
     width: 45%;
+  }
+  a {
+    font-size: 25%;
   }
 }
