@@ -35,3 +35,7 @@ img {
   width: 30.6%;
   height: auto;
 }
+
+a:hover {
+  color: rgb(99, 131, 183);
+}
