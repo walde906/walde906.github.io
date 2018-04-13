@@ -13,6 +13,7 @@ a {
 a:hover {
 	color: rgb(165, 14, 6);
 	font-size: 305%;
+	text-decoration: underline;
 }
 
 img {
