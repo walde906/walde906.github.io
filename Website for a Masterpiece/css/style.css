@@ -3,3 +3,77 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+p {
+	font-family: courier;
+	color: white;
+	text-align: center;
+}
+
+.photos  img {
+	width: 10%;
+	height: auto;
+}
+
+.one {
+	position: absolute;
+	top: 57%;
+	left: 43%;
+	width: 100%;
+	height: auto;
+}
+
+.two {
+	position: absolute;
+	top: 57%;
+	left: 53%;
+	width: 100%;
+	height: auto;
+}
+
+.three {
+    position: absolute;
+	top: 60%;
+	left: 49%;
+	width: 100%;
+	height: auto;
+}
+
+.four {
+    position: absolute;
+	top: 68%;
+	left: 42%;
+	width: 58%;
+	height: auto;
+}
+
+.five {
+    position: absolute;
+	top: 66%;
+	left: 57%;
+	width: 47%;
+	height: auto;
+}
+
+.blackedout {
+	position: absolute;
+	top: 19%;
+	left: 8%;
+	width: 800%;
+	height: auto;
+	opacity: 0.0;
+    filter: alpha(opacity=0);
+}
+
+.blackedout:active {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+
+
+
+
+
+
+
