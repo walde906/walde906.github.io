@@ -12,7 +12,7 @@ a {
 }
 
 a:hover {
-	color: orange;
+	color: rgb(244, 111, 2);
 	z-index: 100;
 }
 
