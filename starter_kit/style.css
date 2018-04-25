@@ -1,0 +1,38 @@
+/* Your styles go here */
+
+#text {
+	display: inline-block;
+	margin-top: 10px;
+	padding: 12px 12px;
+	border-style: solid;
+	margin-left: 50%;
+	font-family: helvetica;
+}
+
+#randomBox {
+	display: inline-block;
+	margin-top: 9px;
+	padding: 12px 12px;
+	border-style: solid;
+	margin-left: 50%;
+	font-family: helvetica;
+}
+
+#box {
+	display: inline-block;
+	margin-top: 12px;
+	padding: 12px 12px;
+	border-style: solid;
+	font-family: helvetica;
+}
+
+p {
+	font-family: Times new Roman;
+	font-weight: 300;
+	font-size: 8vw;
+}
+
+#bird {
+	position: absolute;
+	top: 0px;
+}
