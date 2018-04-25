@@ -34,16 +34,25 @@ $(document).on('keypress', function(e) {
 });
 
 $(document).on('click', function(event) {
-  // All javascript event handlers give you information about the event type in the event argument.
   console.log(event);
 
-  // event.preventDefault() will prevent the default click event from happening in the browser.
-  // This makes it so that clicking a link doesn't actually go to that link.
+
   event.preventDefault();
 
-  // You can refer to items on the event object, such as the target, which represents
-  // the individual DOM element you clicked.
+
   var $clickTarget = $(event.target);
 
   $clickTarget.remove();
+});
+
+var documentHeight = $(document).height();
+var $elements = $('.sidebar > *, .page-content > *');
+
+$(window).on('scroll', function() {
+  var scrollTop = $(this).scrollTop();
+  var scaleFactor = ((scrollTop / documentHeight * 4) % 1.5) + 0.2;
+
+  console.log('scaleFactor', scaleFactor);
+
+  $elements.css({ transform: 'scale(' + scaleFactor + ')' });
 });
