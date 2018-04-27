@@ -27,22 +27,22 @@ $(document).on('keypress', function(e) {
   }
 
   if ( img ) {
-    $('body').append('<img src="' + img + '" style="position: fixed; top: '+ Math.random() * 100 + '%; left: ' + Math.random() * 100 + '%; transform: translate(-50%, -50%); max-width: 300px;">');
+    $('body').append('<img src="' + img + '"style="position: fixed; top: '+ Math.random() * 100 + '%; left: ' + Math.random() * 100 + '%; transform: translate(-50%, -50%); max-width: 300px;">');
   } else {
     $('body').append('<h2 style="position: fixed; top: '+ Math.random() * 100 + '%; left: ' + Math.random() * 100 + '%; transform: translate(-50%, -50%); font-size: ' + Math.random() * 200 + 'px;">' + key + '</h2>');
   }
 });
 
 $(document).on('click', function(event) {
-  console.log(event);
-
-
   event.preventDefault();
-
 
   var $clickTarget = $(event.target);
 
-  $clickTarget.remove();
+  $clickTarget.css({ transform: 'scale(' + randomNumber(0.5, 1.5) + ')' });
+
+  function randomNumber(min, max) {
+    return Math.random() * (max - min) + min;
+  }
 });
 
 var documentHeight = $(document).height();

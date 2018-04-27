@@ -1,0 +1,100 @@
+html {
+	background-color: yellow;
+}
+img {
+	width: 30%;
+	height: auto;
+	opacity: 0;
+	display: flex;
+}
+
+
+
+@media (orientation: landscape) {
+   
+}
+
+@media (max-width: 5000px) {
+	html {
+    	background-color: rgb(119, 140, 133);
+    }
+}
+
+@media (max-width: 4000px) {
+	html {
+    	background-color: rgb(90, 232, 25);
+    }
+    .imgeight img {
+    	opacity: 1;
+    }
+}
+
+@media (max-width: 3000px) {
+	html {
+    	background-color: rgb(85, 186, 154);
+    }
+    .imgseven img {
+    	opacity: 1;
+    }
+}
+
+@media (max-width: 2000px) {
+	html {
+    	background-color: rgb(229, 25, 38);
+    }
+    .imgsix img {
+    	opacity: 1;
+    }
+}
+
+@media (max-width: 1000px) {
+	html {
+    	background-color: rgb(60, 68, 216);
+    }
+    .imgthree img {
+    	opacity: 1;
+    }
+}
+
+@media (max-width: 900px) {
+	html {
+    	background-color: rgb(214, 57, 214);
+    }
+   .imgone img {
+    	opacity: 1;
+    }
+}
+
+@media (max-width: 800px) {
+	html {
+    	background-color: rgb(234, 120, 7);
+    }
+    .imgtwo img {
+    	opacity: 1;
+    }
+}
+
+@media (max-width: 700px) {
+	html {
+    	background-color: rgb(90, 187, 196);
+    }
+    .imgfour img {
+    	opacity: 1;
+    }
+}
+
+@media (max-width: 600px) {
+	html {
+    	background-color: rgb(219, 39, 156);
+    }
+    .imgfive img {
+    	opacity: 1;
+    }
+}
+
+@media (max-width: 500px) {
+	html {
+    	background-color: rgb(215, 224, 42);
+    }
+}
+
