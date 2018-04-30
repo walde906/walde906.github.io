@@ -11,7 +11,9 @@ img {
 
 
 @media (orientation: landscape) {
-   
+   html {
+        background-color: black;
+    }
 }
 
 @media (max-width: 5000px) {
