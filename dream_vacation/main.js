@@ -37,7 +37,7 @@ $(function() {
   });
 });
 
-$video.on('ended', function() {
+$ video.on('ended', function() {
   var thisVideo = $(this).get(0);
 
   $(this).find('source').attr( 'src', getRandomVideoSrc() );
