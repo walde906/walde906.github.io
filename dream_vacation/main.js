@@ -47,7 +47,7 @@ $(document).on('keypress', function(e) {
   console.log('keypress:', key);
 
   if ( key == 'a' ) {
-    img = 'file:///Users/emilwaldron/walde906.github.io/dream_vacation/assets/eight.png';
+    img = 'https://walde906.github.io/dream_vacation/assets/eight.png';
   } else if ( key == 'b' ) {
     img = 'file:///Users/emilwaldron/walde906.github.io/dream_vacation/assets/eighteen.png';
   } else if ( key == 'c' ) {
