@@ -37,11 +37,31 @@ $(function() {
   });
 });
 
-$ video.on('ended', function() {
-  var thisVideo = $(this).get(0);
 
-  $(this).find('source').attr( 'src', getRandomVideoSrc() );
-  video.load();
-  video.currentTime = 0;
-  video.play();
+
+$(document).on('keypress', function(e) {
+  var key = e.key;
+  var img;
+  var text;
+
+  console.log('keypress:', key);
+
+  if ( key == 'v' ) {
+    img = '.video-wrapper-5("style","opacity:1.0; -moz-opacity:1.0; filter:alpha(opacity=100)"';
+  } else if ( key == 'b' ) {
+    img = 'vid8.mp4'("style","top: 4%;","left: 49%;","position: absolute;","width: 52%;","height: 46%;");
+  } else if ( key == 'n' ) {
+    img = 'file:///Users/emilwaldron/walde906.github.io/dream_vacation/test.png';
+  }  else if ( key == 'm' ) {
+    img = 'http://www.pngmart.com/files/1/Mango-Fruit-PNG.png';
+  } else if (key == 'c') {
+  	img = 'http://www.pngmart.com/files/1/Piano-Clip-Art-PNG.png'
+  }
+
+    if ( img ) {
+    $('body').append('<img src="' + img + '"style="position: fixed; top: 4%; left: 49%; max-width: 52%;">');
+  } else {
+    $('body').append('<img src="' + img + '"style="position: fixed; top: 5%; left: -2%; max-width: 52%;">');  }
 });
+
+
